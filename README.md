@@ -285,14 +285,6 @@ By downloading or running this software, you accept **full responsibility** for 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=fadeIn"/>
 
-<sub>
-  Made with 💜 by <a href="https://github.com/kyopjlarbsjt"><b>kyopjlarbsjt</b></a>
-  &nbsp;·&nbsp;
-  <a href="../../issues">Report a Bug</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/MacroDiplomat/Xeno-Executor/releases">Changelog</a>
-</sub>
-
 <br/><br/>
 
 **If Xeno has been useful — a ⭐ star goes a long way. Thank you!**
