@@ -255,7 +255,7 @@ All contributions are welcome — from fixing typos to shipping new features.
 
 ```bash
 # 1. Fork the repo and clone it locally
-git clone https://github.com/kyopjlarbsjt/xeno-executor.git
+git clone https://github.com/MacroDiplomat/Xeno-Executor.git
 cd xeno-executor
 
 # 2. Create a feature branch
